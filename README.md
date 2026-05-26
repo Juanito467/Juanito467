@@ -1,92 +1,112 @@
-# 🏴‍☠️ Ahoy, I'm a Developer Sailing the Grand Line
+# 🏴‍☠️ Ahoy, I am a 42 Developer Sailing the Grand Line
 
-## 👑 Level 42 Pirate Dev
+![Banner](https://i.imgur.com/your-banner-main.png)
 
-> “Every project is a conquest. Every line of code brings me closer to the Pirate King.”
+## 👑 Level 42 Cadet Developer
 
----
-
-# 🌊 About Me
-
-I’m a developer currently on my journey through the Grand Line of programming.
-
-- ⚔️ Level: 42 Pirate Dev  
-- 🌱 Always learning and improving my skills  
-- 🎮 I enjoy building games and interactive systems  
-- 🧭 My goal is to become a full-stack Pirate King of Code  
-
-I don’t just build projects — I conquer islands.
+> “Every project at 42 is an island. Every assignment is a battle.”
 
 ---
 
-# ⚔️ Skills Arsenal
+# 🧭 About Me
 
-- 💻 Programming: JavaScript, Python  
-- 🎮 Game Dev: Roblox Studio  
-- 🔧 Tools: Git, GitHub  
-- 🧠 Learning mindset: Always evolving  
+I am a 42 student currently progressing through the Common Core.
 
----
+- 🎓 School: 42 Network  
+- 🧠 Focus: C Programming & Algorithms  
+- ⚔️ Current Level: 42  
+- 🌊 Journey: From Libft to advanced algorithmic challenges  
 
-# 💰 Bounty System
-
-My growth as a developer is measured in bounty:
-
-- 💰 Level 1–10 → Rookie Pirate  
-- 💰 Level 10–30 → Grand Line Explorer  
-- 💰 Level 30–50 → New World Survivor  
-- 💰 Level 50+ → Rising Pirate King  
-
-Current bounty:  
-💰 **Level 42 — New World Survivor**
+I don’t just complete projects — I conquer them.
 
 ---
 
-# 🏝️ Conquests (My Projects Journey)
+# 🏅 Tech Badges
 
-## 🏝️ Bamboo Forest Trial
-- Built a system involving NPC combat and progression mechanics  
-- Learned how to structure gameplay loops  
-- First step into creating immersive systems  
-
----
-
-## 🏝️ Aura Awakening System
-- Developed aura mechanics with progression and upgrades  
-- Improved understanding of effects and player enhancement systems  
-- Introduced visual feedback systems for gameplay satisfaction  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏝️ Sword Simulator Core System
-- Built a progression-based combat system  
-- Players evolve their swords and increase power over time  
-- Learned advanced scripting logic and game structure design  
+# 🏝️ Conquests of the Grand Line (42 Journey)
 
 ---
 
-## 🏝️ Future Conquests (Coming Soon)
-- More advanced combat systems  
-- Multiplayer improvements  
-- World expansion systems  
-- New aura fusion mechanics  
+## 🏝️ Libft Island — The First Trial
 
-Every project is another island conquered.
+![Libft Banner](https://i.imgur.com/your-libft-banner.png)
+
+> The foundation of all future battles.
+
+- Learned C fundamentals from scratch  
+- Memory management and pointers  
+- Built my own standard library  
+
+⚔️ Status: Conquered
+
+---
+
+## 🏝️ Printf Island — Master of Formatting
+
+![Printf Banner](https://i.imgur.com/your-printf-banner.png)
+
+> Where precision meets control.
+
+- Variadic functions (`...`)  
+- String formatting logic  
+- Deep understanding of memory and output  
+
+⚔️ Status: Conquered
+
+---
+
+## 🏝️ Get Next Line Island — The Stream Challenge
+
+![GNL Banner](https://i.imgur.com/your-gnl-banner.png)
+
+> Reading the world one line at a time.
+
+- File descriptors handling  
+- Buffer management  
+- Static variables mastery  
+
+⚔️ Status: Conquered
+
+---
+
+## 🏝️ Push_swap Island — The Algorithm War
+
+![Push_swap Banner](https://i.imgur.com/your-pushswap-banner.png)
+
+> The battlefield of sorting and optimization.
+
+- Sorting algorithms  
+- Stack manipulation  
+- Optimization under constraints  
+
+⚔️ Status: In Progress / Mastered (según tu estado)
+
+---
+
+# 🌊 Journey Status
+
+- 🧭 Libft → Conquered  
+- 🧭 Printf → Conquered  
+- 🧭 GNL → Conquered  
+- 🧭 Push_swap → Current Battle  
 
 ---
 
 # ☠️ Philosophy
 
-I believe that:
-
-- Code is a journey, not a destination  
-- Every error is a battle experience  
-- Every project makes me stronger  
+> “I don’t pass projects. I conquer islands and move forward.”
 
 ---
 
 # 🌟 Final Log
 
-> “The Grand Line is unpredictable, but I will keep sailing forward until I become the Pirate King of Code.”
+> “At level 42, the sea is already rough… but I am only getting started.”
 
 ---
