@@ -1,6 +1,6 @@
 # 🏴‍☠️ Ahoy, I am a 42 Developer Sailing the Grand Line
 
-![Banner](https://i.imgur.com/your-banner-main.png)
+![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1ocHdiZDd6cHlyZngxZXpqNGNiaGI0Nmh3OTE3aXVnMWoyb2UzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNiHLhB3jAcaJKzWPk/giphy.gif)
 
 ## 👑 Level 42 Cadet Developer
 
