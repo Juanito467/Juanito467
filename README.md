@@ -85,24 +85,3 @@ I don’t just complete projects — I conquer them.
 ⚔️ Status: In Progress / Mastered (según tu estado)
 
 ---
-
-# 🌊 Journey Status
-
-- 🧭 Libft → Conquered  
-- 🧭 Printf → Conquered  
-- 🧭 GNL → Conquered  
-- 🧭 Push_swap → Current Battle  
-
----
-
-# ☠️ Philosophy
-
-> “I don’t pass projects. I conquer islands and move forward.”
-
----
-
-# 🌟 Final Log
-
-> “At level 42, the sea is already rough… but I am only getting started.”
-
----
