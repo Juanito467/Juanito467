@@ -1,10 +1,7 @@
-# 🏴‍☠️ Ahoy, I am a 42 Developer Sailing the Grand Line
 
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1ocHdiZDd6cHlyZngxZXpqNGNiaGI0Nmh3OTE3aXVnMWoyb2UzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNiHLhB3jAcaJKzWPk/giphy.gif)
 
 ## 👑 Level 42 Cadet Developer
-
-> “Every project at 42 is an island. Every assignment is a battle.”
 
 ---
 
@@ -13,9 +10,8 @@
 I am a 42 student currently progressing through the Common Core.
 
 - 🎓 School: 42 Network  
-- 🧠 Focus: C Programming & Algorithms  
+- 🧠 Focus: C Programming & Algorithms and Python Modules
 - ⚔️ Current Level: 42  
-- 🌊 Journey: From Libft to advanced algorithmic challenges  
 
 I don’t just complete projects — I conquer them.
 
@@ -30,11 +26,11 @@ I don’t just complete projects — I conquer them.
 
 ---
 
-# 🏝️ Conquests of the Grand Line (42 Journey)
+# 🏝️ Conquests of the Grand Line 42 Journey
 
 ---
 
-## 🏝️ Libft Island — The First Trial
+## 🏝️ Libft — The First Trial
 
 ![Libft Banner](https://i.imgur.com/your-libft-banner.png)
 
